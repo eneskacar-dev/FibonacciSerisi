@@ -15,7 +15,7 @@ public class Main {
         System.out.print(elemanSayisi + " Elemanlı Fibonacci Serisi: ");
 
         // Fibonacci serisini oluştur ve ekrana yazdır
-        for (int i = 0; i <= elemanSayisi; ++i) {
+        for (int i = 1; i <= elemanSayisi; ++i) {
             System.out.print(sayi1 + " ");
 
             // Her adımda son iki sayının toplamı alınır
